@@ -1,1 +1,1 @@
-Graph database in Neo4j with 6,000+ nodes representing diseases and bacteria, and 20,000+ relationships between said nodes. Cypher queries investigate associations between various diseases through common bacterium.
+Graph database in Neo4j using the Disbiome dataset (https://disbiome.ugent.be/home) with 6,000+ nodes representing diseases and bacteria, and 20,000+ relationships between said nodes. Cypher queries investigate associations between various diseases through common bacterium.
